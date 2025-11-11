@@ -1,2 +1,3 @@
-Web-based standalone app for old smartphones. Full russian description here.
-![pic_1](https://github.com/user-attachments/assets/c63c6c31-1e95-4738-8277-a3e26ca013ca)
+Web-based standalone app for old smart devices. Full russian description here.
+![pic_1](https://github.com/user-attachments/assets/9856e338-c1ca-4e2c-86cc-a2ec845acaca)
+

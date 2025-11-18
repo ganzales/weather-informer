@@ -6,7 +6,7 @@ This project converts an unused smartphone into a dedicated weather informer dis
 
 ## Features
 
-- Real-time display of accurate clock (hours:minutes:seconds) and date with day of week. 
+- Real-time display of accurate clock and date with day of week. 
 
 - Current weather conditions including temperature, cloudiness, wind speed and direction, humidity, and pressure with intuitive visual indicators. 
 
